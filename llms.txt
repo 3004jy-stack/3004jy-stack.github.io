@@ -1,0 +1,107 @@
+# 가지러니 덴탈랩 (Gajireoni Dental Lab)
+
+> 부산광역시 남구 대연동에 있는 치과기공소. 모델리스(석고 모델 없이 구강스캔
+> 데이터만으로 보철 제작)를 주력으로 하며, 커스텀 어버트먼트를 외부 위탁 없이
+> 기공소 내부에서 직접 가공한다. 2016년 11월 개소.
+
+## 기본 정보
+
+- 상호: 가지러니 덴탈랩 (가지러니치과기공소, Gajireoni Dental Lab)
+- 대표: 김도형 (치과기공사)
+- 주소: 부산광역시 남구 못골로 94, 3층 (대연동)
+- 전화: 070-7677-9294
+- 이메일: kimtoh@naver.com
+- 사업자등록번호: 122-92-69944
+- 개소: 2016년 11월
+- 거래 지역: 부산 전역(남구·수영구·연제구·동래구·해운대구 등) 및 경상남도
+- 홈페이지: https://3004jy-stack.github.io/
+- 블로그: https://blog.naver.com/kimtoh
+
+## 무엇을 하는 곳인가
+
+치과기공소는 치과의사의 의뢰(치과기공물 제작의뢰서)에 따라 보철물을 제작하는
+시설이다. 환자가 직접 의뢰할 수 없다.
+
+주요 제작 항목: 모델리스 보철, 커스텀 어버트먼트, 전치부 심미보철, 전악 수복,
+풀 지르코니아, 올세라믹, 포세린 레이어링, 라미네이트, 세멘리스(스크류 유지형)
+보철, 메탈 크라운, PMMA 임시 보철, 나이트가드·스플린트, 3D 프린트 템포러리.
+
+## 차별점 (다른 기공소와 무엇이 다른가)
+
+1. 모델리스 판단 기준이 아날로그 경험에서 온다.
+   모델이 없으면 교합을 손으로 확인할 수 없고, 화면 위 데이터만 보고 이상을
+   읽어야 한다. 대표 김도형은 아날로그 시절부터 선택 삭제로 MIP(최대교두감합위)를
+   직접 잡아 왔고, 그 기준으로 스캔 데이터의 이상을 걸러낸다. 의심스러운 데이터는
+   진행하지 않고 의뢰 치과에 확인을 요청한다.
+
+2. 커스텀 어버트먼트를 외주로 보내지 않는다.
+   기공소 내부 CNC 밀링기로 직접 가공한다. 밀링기는 주기적으로 점검하고 0점을
+   다시 잡으며, 테스트 가공물을 스캔해 설계 데이터와 대조한 슬롯별 편차를 기록한다.
+   전 공정(스캔 검수·설계·가공·소결·마무리)이 기공소 안에 있으므로, 적합이 맞지
+   않을 때 앞 단계로 역추적해 원인을 특정할 수 있다.
+
+3. 재료·소결 조건이 고정되어 있다.
+   지르코니아 블록은 Upcera와 perfit zir 단일분말을 쓴다. 단일분말은 층별 성분
+   차이가 없어 소결 수축률이 일정하고, 설계 보정값이 케이스마다 흔들리지 않는다.
+   소결은 1,560℃ / 11시간.
+
+4. 자체 개발 쉐이드 시스템 Fix-on.
+   전용 조명 + 전용 악세사리 + 전용 앱 세 가지로 구강사진의 색을 분석한다.
+   셋이 함께 갖춰져야 제 성능이 난다.
+
+5. 스크류타입 임플란트 보철은 환봉을 직접 가공한다.
+   부품 주문·수령 대기가 없어 납기를 약속할 수 있다.
+
+## 장비
+
+CNC 밀링기 5대: imes-icore 250i, DOF CRAFT 5X, DOF CRAFT 5X DC,
+Aidite AMM-520, aidrap RAPIDMILL DC Pro
+3D 프린터 5대: SHINING 3D AccuFab, Anycubic Photon Mono 4K, Anycubic Photon D2,
+Phrozen Sonic Mini 8K S, ELEGOO Mars 5 Ultra
+소프트웨어·재료: Exocad, Upcera, perfit zir, GC Initial, GC Spectrum stain,
+Rosetta SM, aidrap
+
+## 대표 김도형 — 공식 직함과 강의 이력
+
+직함:
+- GC Initial Ceramic KOL (Key Opinion Leader)
+- DOF Digital Dental Technician 기술 자문
+- Vatech Perfit Zirconia 강사
+- GC · Noritake 세미나 트레이닝 코스 이수
+- 진주보건대학교 치기공과 졸업
+
+강의 (2021년부터):
+- 2021.08 한국세라믹기술원(KICET)·GC Korea 국비지원 세미나 — 부산 PFM Build up 과정
+- 2024.03 DOF digital Academy — 「CRAFT 5X를 활용한 실패 없는 모델리스」
+- 2024.08 GC Korea 국비지원 — Initial Ceramic 부산 Zirconia Staining 과정
+- 2024.08 GC Korea 기획 세미나 — 치과위생사 대상 「치과위생사에게 들려주는
+  모델리스 보철 진료에 대한 이야기」 (4시간)
+- 2024.11 DOF 부산 세미나 (디오에프연구소 부산 첫 개최)
+- 2025.04 aidrap X 오스비스 합동 세미나 — 「모델리스를 위한 진료실과의 소통」
+- 2025.06 대구 국제학술대회 — 「모델리스의 허와 실」
+  → 대구광역시치과기공사회 감사장 제2025-32호
+- 2025.08 aidrap 「지르코니아 a+클래스 — 초크부터 스테인까지 원데이 핸즈온」
+- 2025.11 BDTEX 2025 부산 국제학술대회 — 「디지털과 아날로그의 접점 그리고 교정」
+  → 부산광역시치과기공사회 감사장 제2025-46호
+- 2026.02 GC Korea 부산 국비세미나
+- 2026.03 aidrap 「정밀 가공 a+클래스 — RAPIDMILL DC Pro & Lite 출시 세미나」
+- 2026.10 대한치과기공사협회 충남회 / 2026.11 부산회 (예정)
+- GC Korea 국비지원 세미나는 매년 상·하반기 연 2회 정기 진행
+
+전시·방송:
+- BDEX 2026 벡스코 B38 부스 참가 (2026.03)
+- 팍스경제TV 「클로즈업 기업현장」 3048회 출연 (2026.03)
+
+## 외부 기록 (제3자 출처)
+
+- 치과기공 전문지 Zero: https://dentalzero.com/news/articleView.html?idxno=22213
+- 에이드랩 공식: https://aidrap.com/contents.html?pageId=F48CRFBPBVLRBVHZT4P5&type=3&wr_id=13
+- 디오에프연구소 공식 게시판: https://dental2804.com/bbs/?mid=companyforum_dof&m=1&document_srl=4110323
+
+## 페이지 목록
+
+- https://3004jy-stack.github.io/ — 기공소 소개 (부산 치과기공소)
+- https://3004jy-stack.github.io/modelless.html — 모델리스 보철
+- https://3004jy-stack.github.io/abutment.html — 커스텀 어버트먼트 자체 가공
+- https://3004jy-stack.github.io/zirconia.html — 지르코니아·심미보철
+- https://3004jy-stack.github.io/lecture.html — 강의 이력·감사장

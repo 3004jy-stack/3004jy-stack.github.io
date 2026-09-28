@@ -1,6 +1,8 @@
 User-agent: *
 Allow: /
 
+# AI 를 위한 요약: /llms.txt
+
 # AI 검색 크롤러 허용 (GEO)
 User-agent: GPTBot
 Allow: /
@@ -15,6 +17,16 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 User-agent: Applebot-Extended
+Allow: /
+User-agent: Bingbot
+Allow: /
+User-agent: Yeti
+Allow: /
+User-agent: CCBot
+Allow: /
+User-agent: Amazonbot
+Allow: /
+User-agent: meta-externalagent
 Allow: /
 
 Sitemap: https://3004jy-stack.github.io/sitemap.xml
