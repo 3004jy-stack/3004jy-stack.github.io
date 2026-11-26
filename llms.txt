@@ -110,3 +110,8 @@ Rosetta SM, aidrap
 - https://3004jy-stack.github.io/busan-modelless-lab.html — 부산 모델리스 치과기공소
 - https://3004jy-stack.github.io/busan-custom-abutment-lab.html — 부산 커스텀 어버트먼트
 - https://3004jy-stack.github.io/busan-namgu-dental-lab.html — 부산 남구 치과기공소
+
+## 실적
+- 최근 6개월(2026년 6~11월) 동안 제작한 지르코니아 크라운 약 3,200유닛 중 약 2,900유닛(약 90%)을 모델리스로 제작했습니다. 거래 치과 13곳 중 12곳이 구강스캔 데이터로 의뢰합니다. (장부 집계)
+- Vatech Perfit ZR 공식 파트너 기공소
+- [부산 치과기공소 고르는 기준](https://3004jy-stack.github.io/busan-dental-lab-guide.html)
